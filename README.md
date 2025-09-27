@@ -1,2 +1,3 @@
 # siat
-current project: [minecraft baby](https://github.com/calebchin/SIATMinecraftAgent)
+past project: [minecraft baby](https://github.com/calebchin/SIATMinecraftAgent)
+current project: [memnosyne] (https://github.com/calebchin/mnemosyne)
